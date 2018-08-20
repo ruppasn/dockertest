@@ -12,6 +12,6 @@ ADD ./target/spring-boot-web-jsp-1.0.war spring-boot-web-jsp-1.0.war
 
 #default command
 CMD java -jar spring-boot-web-jsp-1.0.war
-ii
+
 #CMD ["java -jar spring-boot-web-jsp-1.0.war"]
 
